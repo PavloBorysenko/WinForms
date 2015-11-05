@@ -1,0 +1,8 @@
+D:\Учеба\С#\BorysenkoFormEmplo\BorysenkoFormEmplo\bin\Debug\BorysenkoFormEmplo.exe
+D:\Учеба\С#\BorysenkoFormEmplo\BorysenkoFormEmplo\bin\Debug\BorysenkoFormEmplo.pdb
+D:\Учеба\С#\BorysenkoFormEmplo\BorysenkoFormEmplo\obj\x86\Debug\BorysenkoFormEmplo.csprojResolveAssemblyReference.cache
+D:\Учеба\С#\BorysenkoFormEmplo\BorysenkoFormEmplo\obj\x86\Debug\BorysenkoFormEmplo.Form1.resources
+D:\Учеба\С#\BorysenkoFormEmplo\BorysenkoFormEmplo\obj\x86\Debug\BorysenkoFormEmplo.Properties.Resources.resources
+D:\Учеба\С#\BorysenkoFormEmplo\BorysenkoFormEmplo\obj\x86\Debug\BorysenkoFormEmplo.csproj.GenerateResource.Cache
+D:\Учеба\С#\BorysenkoFormEmplo\BorysenkoFormEmplo\obj\x86\Debug\BorysenkoFormEmplo.exe
+D:\Учеба\С#\BorysenkoFormEmplo\BorysenkoFormEmplo\obj\x86\Debug\BorysenkoFormEmplo.pdb
