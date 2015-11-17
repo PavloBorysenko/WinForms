@@ -1,0 +1,9 @@
+C:\Users\Public\Documents\TrueBorysenkoKino\TrueBorysenkoKino\bin\Debug\TrueBorysenkoKino.exe.config
+C:\Users\Public\Documents\TrueBorysenkoKino\TrueBorysenkoKino\bin\Debug\TrueBorysenkoKino.exe
+C:\Users\Public\Documents\TrueBorysenkoKino\TrueBorysenkoKino\bin\Debug\TrueBorysenkoKino.pdb
+C:\Users\Public\Documents\TrueBorysenkoKino\TrueBorysenkoKino\obj\Debug\TrueBorysenkoKino.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\TrueBorysenkoKino\TrueBorysenkoKino\obj\Debug\TrueBorysenkoKino.Form1.resources
+C:\Users\Public\Documents\TrueBorysenkoKino\TrueBorysenkoKino\obj\Debug\TrueBorysenkoKino.Properties.Resources.resources
+C:\Users\Public\Documents\TrueBorysenkoKino\TrueBorysenkoKino\obj\Debug\TrueBorysenkoKino.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\TrueBorysenkoKino\TrueBorysenkoKino\obj\Debug\TrueBorysenkoKino.exe
+C:\Users\Public\Documents\TrueBorysenkoKino\TrueBorysenkoKino\obj\Debug\TrueBorysenkoKino.pdb
