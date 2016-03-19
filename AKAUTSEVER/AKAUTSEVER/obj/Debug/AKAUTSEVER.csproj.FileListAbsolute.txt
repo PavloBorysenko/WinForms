@@ -1,0 +1,13 @@
+D:\Учеба\С#\Winform\AKAUTSEVER\AKAUTSEVER\bin\Debug\AKAUTSEVER.exe.config
+D:\Учеба\С#\Winform\AKAUTSEVER\AKAUTSEVER\bin\Debug\AKAUTSEVER.exe
+D:\Учеба\С#\Winform\AKAUTSEVER\AKAUTSEVER\bin\Debug\AKAUTSEVER.pdb
+D:\Учеба\С#\Winform\AKAUTSEVER\AKAUTSEVER\obj\Debug\AKAUTSEVER.Form1.resources
+D:\Учеба\С#\Winform\AKAUTSEVER\AKAUTSEVER\obj\Debug\AKAUTSEVER.Properties.Resources.resources
+D:\Учеба\С#\Winform\AKAUTSEVER\AKAUTSEVER\obj\Debug\AKAUTSEVER.csproj.GenerateResource.Cache
+D:\Учеба\С#\Winform\AKAUTSEVER\AKAUTSEVER\obj\Debug\AKAUTSEVER.exe
+D:\Учеба\С#\Winform\AKAUTSEVER\AKAUTSEVER\obj\Debug\AKAUTSEVER.pdb
+D:\Учеба\С#\Winform\AKAUTSEVER\AKAUTSEVER\obj\Debug\AKAUTSEVER.Form2.resources
+D:\Учеба\С#\Winform\AKAUTSEVER\AKAUTSEVER\obj\Debug\AKAUTSEVER.Form3.resources
+D:\Учеба\С#\Winform\AKAUTSEVER\AKAUTSEVER\obj\Debug\AKAUTSEVER.csprojResolveAssemblyReference.cache
+D:\Учеба\С#\Winform\AKAUTSEVER\AKAUTSEVER\obj\Debug\AKAUTSEVER.Form4.resources
+D:\Учеба\С#\Winform\AKAUTSEVER\AKAUTSEVER\obj\Debug\AKAUTSEVER.Form5.resources
