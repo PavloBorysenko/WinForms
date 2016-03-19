@@ -1,9 +1,0 @@
-D:\Учеба\С#\Winform\BorysekoExamAdoNet\BorysekoExamAdoNet\bin\Debug\BorysekoExamAdoNet.exe.config
-D:\Учеба\С#\Winform\BorysekoExamAdoNet\BorysekoExamAdoNet\bin\Debug\BorysekoExamAdoNet.exe
-D:\Учеба\С#\Winform\BorysekoExamAdoNet\BorysekoExamAdoNet\bin\Debug\BorysekoExamAdoNet.pdb
-D:\Учеба\С#\Winform\BorysekoExamAdoNet\BorysekoExamAdoNet\obj\Debug\BorysekoExamAdoNet.Form1.resources
-D:\Учеба\С#\Winform\BorysekoExamAdoNet\BorysekoExamAdoNet\obj\Debug\BorysekoExamAdoNet.Properties.Resources.resources
-D:\Учеба\С#\Winform\BorysekoExamAdoNet\BorysekoExamAdoNet\obj\Debug\BorysekoExamAdoNet.csproj.GenerateResource.Cache
-D:\Учеба\С#\Winform\BorysekoExamAdoNet\BorysekoExamAdoNet\obj\Debug\BorysekoExamAdoNet.exe
-D:\Учеба\С#\Winform\BorysekoExamAdoNet\BorysekoExamAdoNet\obj\Debug\BorysekoExamAdoNet.pdb
-D:\Учеба\С#\Winform\BorysekoExamAdoNet\BorysekoExamAdoNet\obj\Debug\BorysekoExamAdoNet.csprojResolveAssemblyReference.cache
